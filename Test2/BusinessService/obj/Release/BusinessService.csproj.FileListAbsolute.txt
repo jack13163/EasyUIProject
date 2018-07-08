@@ -1,7 +1,0 @@
-E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Release\BusinessService.dll
-E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Release\BusinessService.pdb
-E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Release\DataService.dll
-E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Release\DataService.pdb
-E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Release\ResolveAssemblyReference.cache
-E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Release\BusinessService.dll
-E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Release\BusinessService.pdb
