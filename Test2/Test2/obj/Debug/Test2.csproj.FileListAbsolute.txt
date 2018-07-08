@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Test2\Test2\bin\Test2.dll
+C:\Users\Administrator\Desktop\Test2\Test2\bin\Test2.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test2\Test2\obj\Debug\Test2.dll
+C:\Users\Administrator\Desktop\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\bin\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\Test2\bin\DataService.dll
+C:\Users\Administrator\Desktop\Test2\Test2\bin\DataService.pdb

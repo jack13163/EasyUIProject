@@ -1,0 +1,5 @@
+D:\WORKSPACE\VSS\YCHJPJ\Common\bin\Debug\Common.dll
+D:\WORKSPACE\VSS\YCHJPJ\Common\bin\Debug\Common.pdb
+D:\WORKSPACE\VSS\YCHJPJ\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\WORKSPACE\VSS\YCHJPJ\Common\obj\Debug\Common.dll
+D:\WORKSPACE\VSS\YCHJPJ\Common\obj\Debug\Common.pdb

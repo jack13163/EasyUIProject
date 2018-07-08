@@ -1,0 +1,134 @@
+D:\SBWH\Common\bin\Debug\Common.dll
+D:\SBWH\Common\bin\Debug\Common.pdb
+D:\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\SBWH\Common\obj\Debug\Common.dll
+D:\SBWH\Common\obj\Debug\Common.pdb
+G:\SBWH\Common\bin\Debug\Common.dll
+G:\SBWH\Common\bin\Debug\Common.pdb
+G:\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+G:\SBWH\Common\obj\Debug\Common.dll
+G:\SBWH\Common\obj\Debug\Common.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\Common\bin\Debug\Common.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\Common\bin\Debug\Common.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\Common.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\Common\bin\Debug\Common.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\Common\obj\Debug\Common.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\Common\obj\Debug\Common.pdb
+D:\！涩北气田设备维护\SBWH\Common\bin\Debug\Common.dll
+D:\！涩北气田设备维护\SBWH\Common\bin\Debug\Common.pdb
+D:\！涩北气田设备维护\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\！涩北气田设备维护\SBWH\Common\obj\Debug\Common.dll
+D:\！涩北气田设备维护\SBWH\Common\obj\Debug\Common.pdb
+E:\项目相关\涩北第二版\SBWH\Common\bin\Debug\Common.dll
+E:\项目相关\涩北第二版\SBWH\Common\bin\Debug\Common.pdb
+E:\项目相关\涩北第二版\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北第二版\SBWH\Common\obj\Debug\Common.dll
+E:\项目相关\涩北第二版\SBWH\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH\SBWH\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\Common\obj\Debug\Common.pdb
+E:\项目相关\SBWH\Common\bin\Debug\Common.dll
+E:\项目相关\SBWH\Common\bin\Debug\Common.pdb
+E:\项目相关\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\SBWH\Common\obj\Debug\Common.dll
+E:\项目相关\SBWH\Common\obj\Debug\Common.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\Common\bin\Debug\Common.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\Common\bin\Debug\Common.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\系统相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\Common.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\Common\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SBWH\Common\obj\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\Common\obj\Debug\Common.pdb
+F:\专业资料\项目\access数据表\SBWH\Common\bin\Debug\Common.dll
+F:\专业资料\项目\access数据表\SBWH\Common\bin\Debug\Common.pdb
+F:\专业资料\项目\access数据表\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\专业资料\项目\access数据表\SBWH\Common\obj\Debug\Common.dll
+F:\专业资料\项目\access数据表\SBWH\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\Common\bin\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\Common\obj\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\Common\bin\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\Common\obj\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\Common\bin\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\Common\obj\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\Common\bin\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\Common\obj\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\Common\bin\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\Common\obj\Debug\Common.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\Common\obj\Debug\Common.pdb
+E:\xiaoxin-u\SBWH1619\Common\bin\Debug\Common.dll
+E:\xiaoxin-u\SBWH1619\Common\bin\Debug\Common.pdb
+E:\xiaoxin-u\SBWH1619\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaoxin-u\SBWH1619\Common\obj\Debug\Common.dll
+E:\xiaoxin-u\SBWH1619\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\SBWH1622\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\SBWH1622\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\SBWH1622\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH1622\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\SBWH1622\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\Common\obj\Debug\Common.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\Common\bin\Debug\Common.dll
+D:\桌面20160520\页岩气专家系统\SBWH\Common\bin\Debug\Common.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面20160520\页岩气专家系统\SBWH\Common\obj\Debug\Common.dll
+D:\桌面20160520\页岩气专家系统\SBWH\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\Common\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\Common\obj\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\Common\obj\Debug\Common.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\Common\bin\Debug\Common.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\Common\bin\Debug\Common.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\Common\obj\Debug\Common.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\Test2\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Test2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test2\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\Test2\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\NPOI.xml

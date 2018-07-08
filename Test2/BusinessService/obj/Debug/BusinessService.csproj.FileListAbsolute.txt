@@ -1,0 +1,211 @@
+D:\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\SBWH\BusinessService\bin\Debug\BusinessService.dll
+D:\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+D:\SBWH\BusinessService\bin\Debug\DataService.dll
+D:\SBWH\BusinessService\bin\Debug\DataService.pdb
+D:\SBWH\BusinessService\obj\Debug\BusinessService.dll
+D:\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+G:\SBWH\BusinessService\bin\Debug\BusinessService.dll
+G:\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+G:\SBWH\BusinessService\bin\Debug\DataService.dll
+G:\SBWH\BusinessService\bin\Debug\DataService.pdb
+G:\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+G:\SBWH\BusinessService\obj\Debug\BusinessService.dll
+G:\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\BusinessService.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\DataService.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\DataService.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\BusinessService.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+D:\！涩北气田设备维护\SBWH\BusinessService\bin\Debug\BusinessService.dll
+D:\！涩北气田设备维护\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+D:\！涩北气田设备维护\SBWH\BusinessService\bin\Debug\DataService.dll
+D:\！涩北气田设备维护\SBWH\BusinessService\bin\Debug\DataService.pdb
+D:\！涩北气田设备维护\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\！涩北气田设备维护\SBWH\BusinessService\obj\Debug\BusinessService.dll
+D:\！涩北气田设备维护\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Debug\BusinessService.dll
+E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Debug\DataService.dll
+E:\项目相关\涩北第二版\SBWH\BusinessService\bin\Debug\DataService.pdb
+E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Debug\BusinessService.dll
+E:\项目相关\涩北第二版\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+I:\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.dll
+I:\SBWH\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+I:\SBWH\SBWH\BusinessService\bin\Debug\DataService.dll
+I:\SBWH\SBWH\BusinessService\bin\Debug\DataService.pdb
+I:\SBWH\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+I:\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.dll
+I:\SBWH\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+E:\项目相关\SBWH\BusinessService\bin\Debug\BusinessService.dll
+E:\项目相关\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+E:\项目相关\SBWH\BusinessService\bin\Debug\DataService.dll
+E:\项目相关\SBWH\BusinessService\bin\Debug\DataService.pdb
+E:\项目相关\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\SBWH\BusinessService\obj\Debug\BusinessService.dll
+E:\项目相关\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\BusinessService.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\DataService.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\bin\Debug\DataService.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\BusinessService.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+F:\专业资料\项目\access数据表\SBWH\BusinessService\bin\Debug\BusinessService.dll
+F:\专业资料\项目\access数据表\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+F:\专业资料\项目\access数据表\SBWH\BusinessService\bin\Debug\DataService.dll
+F:\专业资料\项目\access数据表\SBWH\BusinessService\bin\Debug\DataService.pdb
+F:\专业资料\项目\access数据表\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+F:\专业资料\项目\access数据表\SBWH\BusinessService\obj\Debug\BusinessService.dll
+F:\专业资料\项目\access数据表\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\BusinessService\obj\Debug\BusinessService.pdb
+E:\xiaoxin-u\SBWH1619\BusinessService\bin\Debug\BusinessService.dll
+E:\xiaoxin-u\SBWH1619\BusinessService\bin\Debug\BusinessService.pdb
+E:\xiaoxin-u\SBWH1619\BusinessService\bin\Debug\DataService.dll
+E:\xiaoxin-u\SBWH1619\BusinessService\bin\Debug\DataService.pdb
+E:\xiaoxin-u\SBWH1619\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaoxin-u\SBWH1619\BusinessService\obj\Debug\BusinessService.dll
+E:\xiaoxin-u\SBWH1619\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\SBWH1622\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\BusinessService\obj\Debug\BusinessService.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\bin\Debug\BusinessService.dll
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\bin\Debug\DataService.dll
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\bin\Debug\DataService.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\obj\Debug\BusinessService.dll
+D:\桌面20160520\页岩气专家系统\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\bin\Debug\BusinessService.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\bin\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\obj\Debug\BusinessService.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\bin\Debug\BusinessService.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\bin\Debug\BusinessService.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\bin\Debug\DataService.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\bin\Debug\DataService.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\obj\Debug\BusinessService.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\Test2\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\Test2\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\Administrator\Desktop\Test2\BusinessService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\BusinessService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\BusinessService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\BusinessService\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test2\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\Administrator\Desktop\Test2\BusinessService\obj\Debug\BusinessService.pdb

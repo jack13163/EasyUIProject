@@ -1,0 +1,155 @@
+D:\SBWH\DataService\bin\Debug\DataService.dll
+D:\SBWH\DataService\bin\Debug\DataService.pdb
+D:\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\SBWH\DataService\obj\Debug\DataService.dll
+D:\SBWH\DataService\obj\Debug\DataService.pdb
+G:\SBWH\DataService\bin\Debug\DataService.dll
+G:\SBWH\DataService\bin\Debug\DataService.pdb
+G:\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+G:\SBWH\DataService\obj\Debug\DataService.dll
+G:\SBWH\DataService\obj\Debug\DataService.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\DataService\bin\Debug\DataService.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\DataService\bin\Debug\DataService.pdb
+E:\项目相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\DataService.dll
+E:\项目相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SBWH\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\DataService\obj\Debug\DataService.pdb
+D:\！涩北气田设备维护\SBWH\DataService\bin\Debug\DataService.dll
+D:\！涩北气田设备维护\SBWH\DataService\bin\Debug\DataService.pdb
+D:\！涩北气田设备维护\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\！涩北气田设备维护\SBWH\DataService\obj\Debug\DataService.dll
+D:\！涩北气田设备维护\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\Gx.Jin\桌面\SBWH\SBWH\DataService\obj\Debug\DataService.pdb
+E:\项目相关\涩北第二版\SBWH\DataService\bin\Debug\DataService.dll
+E:\项目相关\涩北第二版\SBWH\DataService\bin\Debug\DataService.pdb
+E:\项目相关\涩北第二版\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\涩北第二版\SBWH\DataService\obj\Debug\DataService.dll
+E:\项目相关\涩北第二版\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH\SBWH\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH\SBWH\DataService\obj\Debug\DataService.pdb
+I:\SBWH\SBWH\DataService\bin\Debug\DataService.dll
+I:\SBWH\SBWH\DataService\bin\Debug\DataService.pdb
+I:\SBWH\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+I:\SBWH\SBWH\DataService\obj\Debug\DataService.dll
+I:\SBWH\SBWH\DataService\obj\Debug\DataService.pdb
+E:\项目相关\SBWH\DataService\bin\Debug\DataService.dll
+E:\项目相关\SBWH\DataService\bin\Debug\DataService.pdb
+E:\项目相关\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\项目相关\SBWH\DataService\obj\Debug\DataService.dll
+E:\项目相关\SBWH\DataService\obj\Debug\DataService.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\DataService\bin\Debug\DataService.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\DataService\bin\Debug\DataService.pdb
+E:\系统相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\系统相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\DataService.dll
+E:\系统相关\涩北气田预测性维护系统\SBWH\DataService\obj\Debug\DataService.pdb
+F:\专业资料\项目\access数据表\SBWH\DataService\bin\Debug\DataService.dll
+F:\专业资料\项目\access数据表\SBWH\DataService\bin\Debug\DataService.pdb
+F:\专业资料\项目\access数据表\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+F:\专业资料\项目\access数据表\SBWH\DataService\obj\Debug\DataService.dll
+F:\专业资料\项目\access数据表\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-18晚上\SBWH11-18晚上\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-19\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-23\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-24晚\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-25\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-26晚\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH11-30\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\SBWH12-10晚\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\thtfpc\桌面\软件版本\SBWH12-25\SBWH12-25\DataService\obj\Debug\DataService.pdb
+E:\xiaoxin-u\SBWH1619\DataService\bin\Debug\DataService.dll
+E:\xiaoxin-u\SBWH1619\DataService\bin\Debug\DataService.pdb
+E:\xiaoxin-u\SBWH1619\DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaoxin-u\SBWH1619\DataService\obj\Debug\DataService.dll
+E:\xiaoxin-u\SBWH1619\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH1622\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH1622\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\SBWH1622\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBWH1622\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\SBWH1622\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\油井评价\SBWH1622\DataService\obj\Debug\DataService.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\DataService\bin\Debug\DataService.dll
+D:\桌面20160520\页岩气专家系统\SBWH\DataService\bin\Debug\DataService.pdb
+D:\桌面20160520\页岩气专家系统\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面20160520\页岩气专家系统\SBWH\DataService\obj\Debug\DataService.dll
+D:\桌面20160520\页岩气专家系统\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\DataService\bin\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\DataService\bin\Debug\DataService.pdb
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\DataService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\DataService\obj\Debug\DataService.dll
+C:\Documents and Settings\Administrator\桌面\结题材料\页岩气专家系统\SBWH\DataService\obj\Debug\DataService.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\DataService\bin\Debug\DataService.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\DataService\bin\Debug\DataService.pdb
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\DataService\obj\Debug\DataService.dll
+D:\靳国兴\2017年博士研究生资格审查和答辩材料（通知、文件和相关表格）\博士论文\博士论文201701031\结题材料\SBWH20161008\SBWH\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\DataService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.pdb
