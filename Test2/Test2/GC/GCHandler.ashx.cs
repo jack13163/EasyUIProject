@@ -33,7 +33,7 @@ namespace Web.GC
                     context.Response.Write(GetAll());
                     break;
                 case "GetGC":
-                    string jt = context.Request["jt"];
+                    string jt = HttpUtility.UrlDecode(context.Request["jt"]);
                     context.Response.Write(GetGC(jt));
                     break;
                 case "Add":

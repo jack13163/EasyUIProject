@@ -54,11 +54,9 @@
                     editor: { type: 'combobox', options: {
                         valueField: 'text', textField: 'id', url: '/JT/JTHandler.ashx?action=GetAll', required: true,
                         onSelect: function (data) {
-                            var row = $('#dd').datagrid('getSelected');
-                            var rowIndex = $('#dd').datagrid('getRowIndex', row); //获取行号  
-                            var target = $('#dd').datagrid('getEditor', { 'index': rowIndex, 'field': 'GCName' }).target;
+                            var target = $('#dd').datagrid('getEditor', { 'index': editRow, 'field': 'GCName' }).target;
                             target.combobox('clear'); //清除原来的数据  
-                            var url = '/GC/GCHandler.ashx?action=GetGC&jt=' + data.id;
+                            var url = '/GC/GCHandler.ashx?action=GetGC&jt=' + encodeURI(data.id);
                             target.combobox('reload', url); //联动下拉列表重载  
                         },
                         onLoadSuccess: function () {

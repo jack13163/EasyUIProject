@@ -72,15 +72,13 @@
                     editor: { type: 'combobox', options: {
                         valueField: 'text', textField: 'id', url: '/JT/JTHandler.ashx?action=GetAll',
                         onSelect: function (data) {
-                            var row = $('#dd').datagrid('getSelected');
-                            var rowIndex = $('#dd').datagrid('getRowIndex', row); //获取行号  
-                            var target = $('#dd').datagrid('getEditor', { 'index': rowIndex, 'field': 'GC' }).target;
+                            var target = $('#dd').datagrid('getEditor', { 'index': editRow, 'field': 'GC' }).target;
                             target.combobox('clear'); //清除原来的数据  
-                            var url = '/GC/GCHandler.ashx?action=GetGC&jt=' + data.id;
+                            var url = '/GC/GCHandler.ashx?action=GetGC&jt=' + encodeURI(data.id);
                             target.combobox('reload', url); //联动下拉列表重载  
                         },
                         onLoadSuccess: function () {
-                            $(this).combobox('setValue', tmpRowData.JT);
+                            $(this).combobox('select', tmpRowData.JT);
                         }
                     }
                     }
@@ -189,6 +187,7 @@
                              //当开启了当前选择行的编辑状态之后，
                              //应该取消当前列表的所有选择行，要不然双击之后无法再选择其他行进行编辑
                              datagrid.datagrid("unselectAll");
+                             datagrid.datagrid('selectRow', index); //选中该行
                          }
                      }
                  }
@@ -207,6 +206,8 @@
                  }, '-'],
                 onBeforeEdit: function (index, row) {
                     tmpRowData = row;
+                    datagrid.datagrid('unselectAll');
+                    datagrid.datagrid('selectRow', index); //选中该行
                 },
                 onAfterEdit: function (rowIndex, rowData, changes) {
                     //endEdit该方法触发此事件
