@@ -151,7 +151,14 @@
                              //当开启了当前选择行的编辑状态之后，
                              //应该取消当前列表的所有选择行，要不然双击之后无法再选择其他行进行编辑
                              datagrid.datagrid("unselectAll");
+                             datagrid.datagrid('selectRow', index); //选中该行
                          }
+                     } else {
+                         $.messager.alert({
+                             title: '操作提示',
+                             msg: '请选中单行进行编辑！'
+                         });
+                         datagrid.datagrid("unselectAll");
                      }
                  }
                  }, '-',
@@ -169,6 +176,15 @@
                  }, '-'],
                 onBeforeEdit: function (index, row) {
                     tmpRowData = row;
+                },
+                onBeginEdit: function (index, row) {
+                    var target = datagrid.datagrid('getEditor', { index: index, field: 'JZId' }).target;
+                    //target.combobox({ editable: false });  //不可以输入，只可以选择
+                    if (row.Id != undefined) {
+                        target.combobox({ disabled: true });
+                    } else {
+                        target.combobox({ disabled: false });
+                    }
                 },
                 onAfterEdit: function (rowIndex, rowData, changes) {
                     //endEdit该方法触发此事件

@@ -117,8 +117,9 @@
                         var rowindex = [];
                         for (var i = 0; i < rows.length; i++) {
                             ids.push(rows[i].Id);
+                            var index = $("#dg").datagrid('getRowIndex', rows[i]);
                             //保存列的信息
-                            rowindex.push(i);
+                            rowindex.push(index);
                         }
                         //按照从小到大排序
                         rowindex.sort();
@@ -143,8 +144,6 @@
                                     for (var i = rowindex.length - 1; i >= 0; i--) {
                                         $("#dg").datagrid('deleteRow', rowindex[i]);
                                     }
-                                    //重新加载数据
-                                    $("#dg").datagrid('reload');
                                     $.messager.show({
                                         title: '操作提醒',
                                         msg: data.Message
@@ -170,7 +169,10 @@
                     cache: false, //上传文件不需要缓存
                     processData: false, // 告诉jQuery不要去处理发送的数据
                     contentType: false, // 告诉jQuery不要去设置Content-Type请求头
-                    data: new FormData($('#fm')[0]),
+                    data: new FormData($('#fm')[0]), 
+                    beforeSend: function () {
+                        return $('#fm').form('validate');
+                    },
                     success: function (data) {
                         data = eval('(' + data + ')');      //将一个json字符串解析成js对象
                         $.messager.alert("操作提示", data.Message, 'info'); //显示后台信息
