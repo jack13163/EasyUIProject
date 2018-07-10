@@ -588,13 +588,14 @@
     <Content Include="Echarts\chart\wordCloud.js" />
     <Content Include="Echarts\echarts-all.js" />
     <Content Include="Echarts\echarts.js" />
-    <Content Include="File\Index.html" />
     <Content Include="File\Show.html" />
     <Content Include="GC\Index.html" />
     <Content Include="GC\Show.html" />
     <Content Include="Images\a_te01.gif" />
     <Content Include="Images\a_te02.gif" />
     <Content Include="Images\zsh.ico" />
+    <Content Include="File\RelatedDocs.html" />
+    <Content Include="Scripts\echarts.common.min.js" />
     <Content Include="Styles\assets\demo.css" />
     <Content Include="Styles\assets\shine.min.js" />
     <Content Include="Images\login.gif" />
@@ -736,7 +737,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>3890</DevelopmentServerPort>
+          <DevelopmentServerPort>6856</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

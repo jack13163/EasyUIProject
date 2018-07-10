@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>机组详细信息界面</title>
     <meta http-equiv="pragma" content="no-cache" />
     <script src="/Scripts/loading.js" type="text/javascript"></script>
     <link href="/EasyUI/themes/icon.css" rel="stylesheet" type="text/css" />
@@ -15,6 +15,9 @@
     <script type="text/javascript">
         //树形菜单的点击事件
         $(function () {
+            //更新echart数据
+            var myChart = echarts.init(document.getElementById('myechart'));
+
             $('#dd1').datebox('setValue', '2018-7-1');
             $('#dd2').datebox('setValue', '2018-12-1');
             $("#tt").tree({
@@ -56,9 +59,6 @@
                         success: function (data) {
                             $.messager.progress('close');
                             data = eval('(' + data + ')');
-
-                            //更新echart数据
-                            var myChart = echarts.init(document.getElementById('myechart'));
                             //准备数据
                             option = {
                                 tooltip: {
@@ -84,6 +84,11 @@
 
                             //加载数据
                             myChart.setOption(option);
+
+                            //图表宽度自适应
+                            $(window).on('resize', function () {
+                                myChart.resize();
+                            });
                         }
                     });
 
@@ -136,9 +141,10 @@
         //数据导出
         function toExcel() {
             $.ajax({
-                url: '/JZ/JZHandler.ashx?action=ToExcel',
+                url: '/JZ/JZHandler.ashx',
                 type: 'POST',
                 data: {
+                    action: 'ToExcel',
                     JZId: $('#tt').tree('getRoot').text,
                     Start: $('#dd1').datebox('getValue'),
                     End: $('#dd2').datebox('getValue')
@@ -150,8 +156,35 @@
                 },
                 success: function (data) {
                     $.messager.progress('close');
-                    data = eval('(' + data + ')');      //通过重定向到文件的地址即可实现文件的下载
-                    location.href = data;
+                    //                    if (getBrowserType() == "Chrome") {
+                    //                        location.href = data; //谷歌文件下载方式
+                    //                    } else {
+                    //                        window.open(data); //ie文件下载方式
+                    //                    }
+                    download(data);
+                }
+            });
+        }
+        //下载文件
+        function download(url) {
+            var iframe = document.createElement("iframe")
+            iframe.style.display = "none";
+            iframe.src = url;
+            document.body.appendChild(iframe);
+        }
+        //获取本机组的所有相关文档
+        function getRelatedDoc() {
+            $.ajax({
+                url: '/File/FileHandler.ashx?action=StoreJZId',
+                type: 'POST',
+                data: {
+                    JZId: $('#tt').tree('getRoot').text
+                },
+                success: function (data) {
+                    data = eval('(' + data + ')');      //将一个json字符串解析成js对象
+                    if(data.Success){
+                        location.href = '/File/RelatedDocs.html';//重定向到相关文档展示页面
+                    }
                 }
             });
         }
@@ -193,7 +226,7 @@
                     求助专家</a>
             </td>
             <td>
-                &nbsp;
+                <a href="#" class="easyui-linkbutton" onclick="getRelatedDoc()" plain="true" data-options="iconCls: 'icon-more'">相关文档</a>
             </td>
         </tr>
     </table>

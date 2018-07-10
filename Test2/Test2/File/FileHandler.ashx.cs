@@ -17,6 +17,8 @@ namespace Web.File
     public class FileHandler : IHttpHandler
     {
         DataAccess data = new DataAccess();
+        private static string jzidstr = "";
+
         public void ProcessRequest(HttpContext context)
         {
             string action = context.Request["action"].ToString();
@@ -93,6 +95,9 @@ namespace Web.File
                     string filename = context.Request.Form["Name"].ToString();
                     context.Response.Write(GetFile(filename));
                     break;
+                case "GetJZRelatedFile":
+                    context.Response.Write(GetJZRelatedFile(jzidstr));
+                    break;
                 case "Delete":
                     try
                     {
@@ -127,6 +132,15 @@ namespace Web.File
                     jss = JsonHelper<ResultInfo>.ObjectToJsonString(result);
                     context.Response.Write(jss);
                     context.Response.End();
+                    break;
+                case "StoreJZId":
+                    jzidstr = context.Request.Form["JZId"].ToString();
+                    if (jzidstr != null && jzidstr != "")
+                    {
+                        result.Success = true;
+                        result.Message = "机组编号临时存储成功！";
+                    }
+                    context.Response.Write(JsonHelper<ResultInfo>.ObjectToJsonString(result));
                     break;
                 default:
                     break;
@@ -165,6 +179,33 @@ namespace Web.File
             d.Add("total", data.GetTable(sql).Rows.Count);
             //获取page页的数据
             dTable = dTable.AsEnumerable().Skip((page - 1) * rows).Take(rows).CopyToDataTable();
+            for (int i = 0; i < dTable.Rows.Count; i++)
+            {
+                DocInfo file = new DocInfo();
+                file.Id = int.Parse(dTable.Rows[i]["文档编号"].ToString());
+                file.JZId = dTable.Rows[i]["机组编号"].ToString();
+                file.UploadTime = dTable.Rows[i]["上传时间"].ToString();
+                file.Note = dTable.Rows[i]["备注"].ToString();
+                file.Name = dTable.Rows[i]["文档名"].ToString();
+                file.Type = dTable.Rows[i]["类型"].ToString();
+                files.Add(file);
+            }
+            d.Add("rows", files);
+            return JsonConvert.SerializeObject(d);
+        }
+
+        /// <summary>
+        /// 获取机组所有相关文档信息
+        /// </summary>
+        /// <returns>文档信息列表的json字符串形式</returns>
+        public string GetJZRelatedFile(string jzid)
+        {
+            List<DocInfo> files = new List<DocInfo>();
+            string sql = "SELECT * FROM `web`.`文档库` where 机组编号='" + jzid + "'";
+            Dictionary<string, object> d = new Dictionary<string, object>();
+            //获取数据总数(注意是总数,不是一页中数据的条数)
+            DataTable dTable = data.GetTable(sql);
+            d.Add("total", data.GetTable(sql).Rows.Count);
             for (int i = 0; i < dTable.Rows.Count; i++)
             {
                 DocInfo file = new DocInfo();

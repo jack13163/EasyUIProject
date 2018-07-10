@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>用户列表</title>
+    <title>后台管理系统</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script src="/Scripts/loading.js" type="text/javascript"></script>
     <link href="/EasyUI/themes/icon.css" rel="stylesheet" type="text/css" />

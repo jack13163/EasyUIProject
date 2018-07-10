@@ -210,7 +210,8 @@ namespace Web
                                 Tree<string> wdnode = new Tree<string>();
                                 wdnode.Data = "文档管理";
                                 root.AddNode(wdnode);
-                                sql = "SELECT 机组编号 FROM `web`.`咨询专家表` where `专家名`='" + context.Session["用户名"].ToString() + "'";
+                                //查找该专家所有未完成咨询，包括未处理和正在处理的咨询。
+                                sql = "SELECT 机组编号 FROM `web`.`咨询专家表` where `专家名`='" + context.Session["用户名"].ToString() + "' and 状态<2";
                                 ////整理菜单
                                 dTable = data.GetTable(sql);
                                 if (dTable.Rows.Count > 0)

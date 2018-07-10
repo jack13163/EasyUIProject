@@ -153,3 +153,9 @@ C:\Users\Administrator\Desktop\Test2\Test2\DataService\bin\Debug\MySql.Data.dll
 C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.dll
 C:\Users\Administrator\Desktop\Test2\Test2\DataService\obj\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\obj\Debug\DataService.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\DataService\obj\Debug\DataService.pdb

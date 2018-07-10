@@ -132,3 +132,17 @@ C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.csprojResolve
 C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.dll
 C:\Users\Administrator\Desktop\Test2\Test2\Common\obj\Debug\Common.pdb
 C:\Users\Administrator\Desktop\Test2\Test2\Common\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\DataService.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\DataService.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\EasyUIProject\Test2\Common\obj\Debug\Common.pdb

@@ -1,5 +1,5 @@
 /*
- Navicat MySQL Data Transfer
+ Navicat Premium Data Transfer
 
  Source Server         : mysql
  Source Server Type    : MySQL
@@ -11,7 +11,7 @@
  Target Server Version : 50710
  File Encoding         : 65001
 
- Date: 06/07/2018 13:54:36
+ Date: 10/07/2018 13:00:17
 */
 
 SET NAMES utf8mb4;
@@ -24,10 +24,10 @@ DROP TABLE IF EXISTS `10001`;
 CREATE TABLE `10001`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
-  `湿度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
+  `湿度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -65,9 +65,9 @@ DROP TABLE IF EXISTS `10002`;
 CREATE TABLE `10002`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -104,9 +104,9 @@ DROP TABLE IF EXISTS `10003`;
 CREATE TABLE `10003`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -143,10 +143,10 @@ DROP TABLE IF EXISTS `10004`;
 CREATE TABLE `10004`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
-  `湿度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
+  `湿度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -182,9 +182,9 @@ DROP TABLE IF EXISTS `10005`;
 CREATE TABLE `10005`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -223,9 +223,9 @@ DROP TABLE IF EXISTS `10006`;
 CREATE TABLE `10006`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -264,9 +264,9 @@ DROP TABLE IF EXISTS `10007`;
 CREATE TABLE `10007`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -306,9 +306,9 @@ DROP TABLE IF EXISTS `10008`;
 CREATE TABLE `10008`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -342,9 +342,9 @@ DROP TABLE IF EXISTS `10009`;
 CREATE TABLE `10009`  (
   `ID` int(100) NOT NULL,
   `测试日期` date NOT NULL,
-  `测试时间` time(0) DEFAULT NULL,
-  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `温度` double DEFAULT 0,
+  `测试时间` time(0) NULL DEFAULT NULL,
+  `备注` varchar(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `温度` double NULL DEFAULT 0,
   PRIMARY KEY (`ID`, `测试日期`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic PARTITION BY RANGE (to_days(`测试日期`))
 PARTITIONS 12
@@ -377,23 +377,26 @@ INSERT INTO `10009` VALUES (5, '2018-07-05', '21:05:25', NULL, 46);
 DROP TABLE IF EXISTS `咨询专家表`;
 CREATE TABLE `咨询专家表`  (
   `咨询编号` int(255) NOT NULL AUTO_INCREMENT,
-  `专家名` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `专家名` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `状态` int(255) NULL DEFAULT 0,
+  `提交时间` datetime(6) NULL DEFAULT NULL,
+  `完成时间` datetime(6) NULL DEFAULT NULL,
   PRIMARY KEY (`咨询编号`) USING BTREE,
   INDEX `咨询专家表_ibfk_1`(`专家名`) USING BTREE,
   INDEX `aaa`(`机组编号`) USING BTREE,
   CONSTRAINT `aaa` FOREIGN KEY (`机组编号`) REFERENCES `机组表` (`机组编号`) ON DELETE NO ACTION ON UPDATE RESTRICT,
   CONSTRAINT `咨询专家表_ibfk_1` FOREIGN KEY (`专家名`) REFERENCES `用户表` (`用户名`) ON DELETE NO ACTION ON UPDATE RESTRICT
-) ENGINE = InnoDB AUTO_INCREMENT = 10 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Records of 咨询专家表
 -- ----------------------------
-INSERT INTO `咨询专家表` VALUES (5, 'lisi', '10003');
-INSERT INTO `咨询专家表` VALUES (6, 'lisi', '10005');
-INSERT INTO `咨询专家表` VALUES (7, 'lisi', '10001');
-INSERT INTO `咨询专家表` VALUES (8, 'lisi', '10002');
-INSERT INTO `咨询专家表` VALUES (9, 'lisi', '10004');
+INSERT INTO `咨询专家表` VALUES (21, 'lisi', '10001', 0, '2018-07-10 12:58:53.000000', NULL);
+INSERT INTO `咨询专家表` VALUES (22, 'lisi', '10002', 0, '2018-07-10 12:59:06.000000', NULL);
+INSERT INTO `咨询专家表` VALUES (23, 'lisi', '10005', 0, '2018-07-10 12:59:10.000000', NULL);
+INSERT INTO `咨询专家表` VALUES (24, 'lisi', '10008', 0, '2018-07-10 12:59:14.000000', NULL);
+INSERT INTO `咨询专家表` VALUES (25, 'lisi', '10007', 0, '2018-07-10 12:59:31.000000', NULL);
 
 -- ----------------------------
 -- Table structure for 工厂表
@@ -401,13 +404,13 @@ INSERT INTO `咨询专家表` VALUES (9, 'lisi', '10004');
 DROP TABLE IF EXISTS `工厂表`;
 CREATE TABLE `工厂表`  (
   `工厂名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `工厂地址` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂邮编` varchar(6) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂介绍` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂电话` varchar(12) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `工厂地址` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂邮编` varchar(6) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂介绍` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂电话` varchar(12) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`工厂名称`) USING BTREE,
   INDEX `集团分工厂`(`集团名称`) USING BTREE,
   INDEX `工厂名称`(`工厂名称`, `集团名称`) USING BTREE,
@@ -429,20 +432,15 @@ INSERT INTO `工厂表` VALUES ('工厂B1', '湖北荆州', '', '', '14985456464
 DROP TABLE IF EXISTS `文档库`;
 CREATE TABLE `文档库`  (
   `文档编号` int(11) NOT NULL AUTO_INCREMENT,
-  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `文档名` varchar(150) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `上传时间` datetime(0) DEFAULT NULL,
-  `备注` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `类型` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `文档名` varchar(150) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `上传时间` datetime(0) NULL DEFAULT NULL,
+  `备注` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `类型` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`文档编号`) USING BTREE,
   INDEX `机组编号`(`机组编号`) USING BTREE,
   CONSTRAINT `文档库_ibfk_1` FOREIGN KEY (`机组编号`) REFERENCES `机组表` (`机组编号`) ON DELETE NO ACTION ON UPDATE CASCADE
-) ENGINE = InnoDB AUTO_INCREMENT = 92 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
-
--- ----------------------------
--- Records of 文档库
--- ----------------------------
-INSERT INTO `文档库` VALUES (91, '10001', '参考文献.docx', '2018-07-04 13:26:41', '/Files/2018/7/4/693d4884-8949-483e-8ff4-1d28a6da23bb.docx', '');
+) ENGINE = InnoDB AUTO_INCREMENT = 6 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for 机组表
@@ -450,13 +448,13 @@ INSERT INTO `文档库` VALUES (91, '10001', '参考文献.docx', '2018-07-04 13
 DROP TABLE IF EXISTS `机组表`;
 CREATE TABLE `机组表`  (
   `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `机组名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `机组描述` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `负责人` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `机组经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `状态` int(255) DEFAULT 1,
+  `机组名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `机组描述` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `负责人` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `机组经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `状态` int(255) NULL DEFAULT 1,
   PRIMARY KEY (`机组编号`) USING BTREE,
   INDEX `机组所属`(`负责人`) USING BTREE,
   INDEX `a`(`工厂名称`) USING BTREE,
@@ -484,9 +482,9 @@ INSERT INTO `机组表` VALUES ('10009', '机组B10003', '', '集团B', '工厂B
 DROP TABLE IF EXISTS `测点表`;
 CREATE TABLE `测点表`  (
   `测点编号` int(10) NOT NULL AUTO_INCREMENT,
-  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `机组编号` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `测点名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `测点描述` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `测点描述` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`测点编号`) USING BTREE,
   INDEX `机组编号`(`机组编号`) USING BTREE,
   CONSTRAINT `测点表_ibfk_1` FOREIGN KEY (`机组编号`) REFERENCES `机组表` (`机组编号`) ON DELETE RESTRICT ON UPDATE RESTRICT
@@ -515,12 +513,12 @@ CREATE TABLE `用户表`  (
   `用户编号` int(11) NOT NULL AUTO_INCREMENT,
   `用户名` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `密码` varchar(10) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `电话号码` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `工厂名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `角色名称` varchar(10) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `备注` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `电话号码` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `工厂名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `角色名称` varchar(10) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `备注` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`用户编号`) USING BTREE,
   INDEX `用户单位`(`工厂名称`, `集团名称`) USING BTREE,
   INDEX `用户角色`(`角色名称`) USING BTREE,
@@ -533,7 +531,7 @@ CREATE TABLE `用户表`  (
   INDEX `集团名称`(`集团名称`) USING BTREE,
   INDEX `集团名称_2`(`集团名称`, `工厂名称`, `用户名`) USING BTREE,
   CONSTRAINT `用户角色` FOREIGN KEY (`角色名称`) REFERENCES `角色表` (`角色名称`) ON DELETE NO ACTION ON UPDATE CASCADE
-) ENGINE = InnoDB AUTO_INCREMENT = 12259 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 10011 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Records of 用户表
@@ -556,12 +554,12 @@ DROP TABLE IF EXISTS `菜单表`;
 CREATE TABLE `菜单表`  (
   `菜单号` int(10) NOT NULL AUTO_INCREMENT,
   `菜单名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `父菜单号` int(11) DEFAULT NULL,
-  `菜单序号` int(11) DEFAULT NULL,
-  `菜单描述` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `URL` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `菜单图标` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `菜单等级` int(11) DEFAULT NULL,
+  `父菜单号` int(11) NULL DEFAULT NULL,
+  `菜单序号` int(11) NULL DEFAULT NULL,
+  `菜单描述` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `URL` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `菜单图标` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `菜单等级` int(11) NULL DEFAULT NULL,
   PRIMARY KEY (`菜单号`) USING BTREE
 ) ENGINE = InnoDB AUTO_INCREMENT = 29 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
@@ -596,7 +594,7 @@ INSERT INTO `菜单表` VALUES (28, '机组B10003', NULL, NULL, NULL, '/JZ/Index
 DROP TABLE IF EXISTS `角色表`;
 CREATE TABLE `角色表`  (
   `角色名称` varchar(10) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `角色描述` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `角色描述` varchar(250) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`角色名称`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
@@ -615,63 +613,57 @@ INSERT INTO `角色表` VALUES ('集团负责人', NULL);
 DROP TABLE IF EXISTS `集团表`;
 CREATE TABLE `集团表`  (
   `集团名称` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
-  `集团地址` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团邮编` varchar(6) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团介绍` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团电话` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
-  `集团经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+  `集团地址` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团邮编` varchar(6) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团介绍` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团电话` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团电子邮箱` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `集团经纬度` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`集团名称`) USING BTREE
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Records of 集团表
 -- ----------------------------
-INSERT INTO `集团表` VALUES ('集团A', '湖北荆州', '434023', '1', '18163132466', '18163132466@163.com', '11,144');
+INSERT INTO `集团表` VALUES ('集团A', '湖北荆州', '434023', '', '18163132466', '18163132466@163.com', '11,144');
 INSERT INTO `集团表` VALUES ('集团B', '湖北武汉', '', '', '18163135869', '18163135869@163.com', '');
 
 -- ----------------------------
 -- View structure for menue
 -- ----------------------------
 DROP VIEW IF EXISTS `menue`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `menue` AS select `集团表`.`集团名称` AS `集团名称`,`工厂表`.`工厂名称` AS `工厂名称`,`用户表`.`用户名` AS `用户名`,`机组表`.`机组名称` AS `机组名称` from (((`集团表` left join `工厂表` on((`工厂表`.`集团名称` = `集团表`.`集团名称`))) left join `用户表` on(((`用户表`.`工厂名称` = `工厂表`.`工厂名称`) and (`用户表`.`集团名称` = `工厂表`.`集团名称`)))) left join `机组表` on(((`机组表`.`集团名称` = `用户表`.`集团名称`) and (`机组表`.`工厂名称` = `用户表`.`工厂名称`) and (`机组表`.`负责人` = `用户表`.`用户名`)))) order by `集团表`.`集团名称`,`工厂表`.`工厂名称`,`用户表`.`用户名`,`机组表`.`机组名称`;
+CREATE ALGORITHM = UNDEFINED SQL SECURITY DEFINER VIEW `menue` AS select `集团表`.`集团名称` AS `集团名称`,`工厂表`.`工厂名称` AS `工厂名称`,`用户表`.`用户名` AS `用户名`,`机组表`.`机组名称` AS `机组名称` from (((`集团表` left join `工厂表` on((`工厂表`.`集团名称` = `集团表`.`集团名称`))) left join `用户表` on(((`用户表`.`工厂名称` = `工厂表`.`工厂名称`) and (`用户表`.`集团名称` = `工厂表`.`集团名称`)))) left join `机组表` on(((`机组表`.`集团名称` = `用户表`.`集团名称`) and (`机组表`.`工厂名称` = `用户表`.`工厂名称`) and (`机组表`.`负责人` = `用户表`.`用户名`)))) order by `集团表`.`集团名称`,`工厂表`.`工厂名称`,`用户表`.`用户名`,`机组表`.`机组名称`;
 
 -- ----------------------------
 -- View structure for 工作机组数
 -- ----------------------------
 DROP VIEW IF EXISTS `工作机组数`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `工作机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `工作机组数` from `机组表` where (`机组表`.`状态` <> 0) group by `机组表`.`工厂名称`;
+CREATE ALGORITHM = UNDEFINED SQL SECURITY DEFINER VIEW `工作机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `工作机组数` from `机组表` where (`机组表`.`状态` <> 0) group by `机组表`.`工厂名称`;
 
 -- ----------------------------
 -- View structure for 总机组数
 -- ----------------------------
 DROP VIEW IF EXISTS `总机组数`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `总机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `总机组数` from `机组表` group by `机组表`.`工厂名称`;
+CREATE ALGORITHM = UNDEFINED SQL SECURITY DEFINER VIEW `总机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `总机组数` from `机组表` group by `机组表`.`工厂名称`;
 
 -- ----------------------------
 -- View structure for 报警故障机组数
 -- ----------------------------
 DROP VIEW IF EXISTS `报警故障机组数`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `报警故障机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `报警故障机组数` from `机组表` where ((`机组表`.`状态` = 2) or (`机组表`.`状态` = 3)) group by `机组表`.`工厂名称`;
+CREATE ALGORITHM = UNDEFINED SQL SECURITY DEFINER VIEW `报警故障机组数` AS select `机组表`.`集团名称` AS `集团名称`,`机组表`.`工厂名称` AS `工厂名称`,count(`机组表`.`机组名称`) AS `报警故障机组数` from `机组表` where ((`机组表`.`状态` = 2) or (`机组表`.`状态` = 3)) group by `机组表`.`工厂名称`;
 
 -- ----------------------------
 -- View structure for 机组状态一览表
 -- ----------------------------
 DROP VIEW IF EXISTS `机组状态一览表`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `机组状态一览表` AS select `总机组数`.`集团名称` AS `集团名称`,`总机组数`.`工厂名称` AS `工厂名称`,`总机组数`.`总机组数` AS `总机组数`,coalesce(`工作机组数`.`工作机组数`,0) AS `工作机组数`,coalesce(`报警故障机组数`.`报警故障机组数`,0) AS `报警故障机组数`,(`总机组数`.`总机组数` - coalesce(`工作机组数`.`工作机组数`,0)) AS `停机数` from ((`总机组数` left join `工作机组数` on((`总机组数`.`工厂名称` = `工作机组数`.`工厂名称`))) left join `报警故障机组数` on((`总机组数`.`工厂名称` = `报警故障机组数`.`工厂名称`)));
-
--- ----------------------------
--- View structure for 菜单
--- ----------------------------
-DROP VIEW IF EXISTS `菜单`;
-CREATE ALGORITHM = UNDEFINED DEFINER = `root`@`localhost` SQL SECURITY DEFINER VIEW `菜单` AS select `用户表`.`用户名` AS `用户名`,`用户表`.`工厂名称` AS `工厂名称`,`机组表`.`机组名称` AS `机组名称`,`集团表`.`集团名称` AS `集团名称` from ((`用户表` left join `机组表` on((`机组表`.`负责人` = `用户表`.`用户名`))) left join `集团表` on((`集团表`.`集团名称` = `用户表`.`集团名称`)));
+CREATE ALGORITHM = UNDEFINED SQL SECURITY DEFINER VIEW `机组状态一览表` AS select `总机组数`.`集团名称` AS `集团名称`,`总机组数`.`工厂名称` AS `工厂名称`,`总机组数`.`总机组数` AS `总机组数`,coalesce(`工作机组数`.`工作机组数`,0) AS `工作机组数`,coalesce(`报警故障机组数`.`报警故障机组数`,0) AS `报警故障机组数`,(`总机组数`.`总机组数` - coalesce(`工作机组数`.`工作机组数`,0)) AS `停机数` from ((`总机组数` left join `工作机组数` on((`总机组数`.`工厂名称` = `工作机组数`.`工厂名称`))) left join `报警故障机组数` on((`总机组数`.`工厂名称` = `报警故障机组数`.`工厂名称`)));
 
 -- ----------------------------
 -- Triggers structure for table 工厂表
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t1`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t1` AFTER INSERT ON `工厂表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t1` AFTER INSERT ON `工厂表` FOR EACH ROW BEGIN
 INSERT INTO `web`.`菜单表`(`菜单名称`, `URL`) VALUES (NEW.`工厂名称`, '/GC/Index.html');
 END
 ;;
@@ -682,7 +674,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t4`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t4` AFTER UPDATE ON `工厂表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t4` AFTER UPDATE ON `工厂表` FOR EACH ROW BEGIN
 DECLARE menuid int default 0;
 SELECT `菜单号` into @menuid FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`工厂名称`;
 UPDATE `web`.`菜单表` SET `菜单名称` = NEW.`工厂名称` WHERE `菜单号` = @menuid;
@@ -695,7 +687,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t7`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t7` AFTER DELETE ON `工厂表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t7` AFTER DELETE ON `工厂表` FOR EACH ROW BEGIN
 DELETE FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`工厂名称`;
 END
 ;;
@@ -706,7 +698,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t3`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t3` AFTER INSERT ON `机组表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t3` AFTER INSERT ON `机组表` FOR EACH ROW BEGIN
 INSERT INTO `web`.`菜单表`(`菜单名称`, `URL`) VALUES (NEW.`机组名称`, '/JZ/Index.html');
 END
 ;;
@@ -717,7 +709,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t6`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t6` AFTER UPDATE ON `机组表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t6` AFTER UPDATE ON `机组表` FOR EACH ROW BEGIN
 DECLARE menuid int default 0;
 SELECT `菜单号` into @menuid FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`机组名称`;
 UPDATE `web`.`菜单表` SET `菜单名称` = NEW.`机组名称` WHERE `菜单号` = @menuid;
@@ -730,7 +722,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t9`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t9` AFTER DELETE ON `机组表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t9` AFTER DELETE ON `机组表` FOR EACH ROW BEGIN
 DELETE FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`机组名称`;
 END
 ;;
@@ -741,7 +733,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t2`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t2` AFTER INSERT ON `集团表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t2` AFTER INSERT ON `集团表` FOR EACH ROW BEGIN
 INSERT INTO `web`.`菜单表`(`菜单名称`, `URL`) VALUES (NEW.`集团名称`, '/JT/Index.html');
 END
 ;;
@@ -752,7 +744,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t5`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t5` AFTER UPDATE ON `集团表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t5` AFTER UPDATE ON `集团表` FOR EACH ROW BEGIN
 DECLARE menuid int default 0;
 SELECT `菜单号` into @menuid FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`集团名称`;
 UPDATE `web`.`菜单表` SET `菜单名称` = NEW.`集团名称` WHERE `菜单号` = @menuid;
@@ -765,7 +757,7 @@ delimiter ;
 -- ----------------------------
 DROP TRIGGER IF EXISTS `t8`;
 delimiter ;;
-CREATE DEFINER = `root`@`localhost` TRIGGER `t8` AFTER DELETE ON `集团表` FOR EACH ROW BEGIN
+CREATE TRIGGER `t8` AFTER DELETE ON `集团表` FOR EACH ROW BEGIN
 DELETE FROM `web`.`菜单表` WHERE `菜单名称` = OLD.`集团名称`;
 END
 ;;

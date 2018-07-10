@@ -120,6 +120,12 @@ namespace Web.JZ
                     break;
                 case "StoreGCName":
                     gcname = context.Request.Form["GCName"].ToString();
+                    if (gcname != null && gcname != "")
+                    {
+                        result.Success = true;
+                        result.Message = "集团名称临时存储成功！";
+                    }
+                    context.Response.Write(JsonHelper<ResultInfo>.ObjectToJsonString(result));
                     break;
                 case "GetAllGZJZInfo":
                     context.Response.Write(GetAllGZJZInfo(gcname));
@@ -134,9 +140,8 @@ namespace Web.JZ
                         DataTable dTable = GetTermJZInfo(tableName, startTime, endTime);
                         // 进行Excel转换操作，并返回转换的文件下载链接
                         string urlPath = ExcelHelper.EntityListToExcel2003(dTable);
-                        System.Web.Script.Serialization.JavaScriptSerializer js = new System.Web.Script.Serialization.JavaScriptSerializer();
                         context.Response.ContentType = "text/plain";
-                        context.Response.Write(js.Serialize(urlPath)); // 返回Json格式的内容
+                        context.Response.Write(urlPath); // 返回Json格式的内容
                     }
                     catch (Exception ex)
                     {

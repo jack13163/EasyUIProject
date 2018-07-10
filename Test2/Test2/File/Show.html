@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>管理员专家管理文档界面</title>
     <meta http-equiv="pragma" content="no-cache" />
     <script src="/Scripts/loading.js" type="text/javascript"></script>
     <link href="/EasyUI/themes/icon.css" rel="stylesheet" type="text/css" />
@@ -12,7 +12,7 @@
     <script src="../EasyUI/locale/easyui-lang-zh_CN.js" type="text/javascript"></script>
     <script type="text/javascript">
         function doSearch() {
-            //执行数据删除操作
+            //查找文件
             $.ajax({
                 url: '/File/FileHandler.ashx?action=GetFile',
                 type: 'POST',
@@ -112,15 +112,21 @@
             if (rows.length > 0) {
                 $.messager.confirm("提示", "你确定要删除吗?", function (r) {
                     if (r) {
-                        //获取所有要删除的用户的编号
+                        //获取所有要删除的文档的编号
                         var ids = [];
+                        var rowindex = [];
                         for (var i = 0; i < rows.length; i++) {
                             ids.push(rows[i].Id);
+                            //保存列的信息
+                            rowindex.push(i);
                         }
+                        //按照从小到大排序
+                        rowindex.sort();
                         //执行数据删除操作
                         $.ajax({
                             url: '/File/FileHandler.ashx?action=Delete',
                             type: 'POST',
+                            async: false,
                             data: {
                                 Id: ids.join(',')
                             },
@@ -133,20 +139,25 @@
                                 $.messager.progress('close');
                                 data = eval('(' + data + ')');      //将一个json字符串解析成js对象
                                 if (data.Success) {
+                                    //手动删除表格数据
+                                    for (var i = rowindex.length - 1; i >= 0; i--) {
+                                        $("#dg").datagrid('deleteRow', rowindex[i]);
+                                    }
+                                    //重新加载数据
+                                    $("#dg").datagrid('reload');
                                     $.messager.show({
                                         title: '操作提醒',
                                         msg: data.Message
                                     });
-                                    $("#dg").datagrid('reload');
                                 } else {
-                                    $.messager.alert('删除失败', data.Message, 'warning');
+                                    $.messager.show('删除失败', data.Message, 'warning');
                                 }
                             }
                         });
                     }
                 });
             } else {
-                $.messager.alert("操作提示", "请选中需要删除的用户所在的行！", 'info');
+                $.messager.alert("操作提示", "请选中需要删除的文档所在的行！", 'info');
             }
         }
         function saveFile() {
