@@ -212,6 +212,14 @@
                 onBeforeEdit: function (index, row) {
                     tmpRowData = row;
                 },
+                onBeginEdit: function (index, row) {
+                    var target1 = datagrid.datagrid('getEditor', { index: index, field: 'JTName' }).target;
+                    target1.combobox({ editable: false });  //不可以输入，只可以选择
+                    var target2 = datagrid.datagrid('getEditor', { index: index, field: 'GCName' }).target;
+                    target2.combobox({ editable: false });  //不可以输入，只可以选择
+                    var target3 = datagrid.datagrid('getEditor', { index: index, field: 'Boss' }).target;
+                    target3.combobox({ editable: false });  //不可以输入，只可以选择
+                },
                 onAfterEdit: function (rowIndex, rowData, changes) {
                     //endEdit该方法触发此事件
                     var inserted = datagrid.datagrid('getChanges', 'inserted');

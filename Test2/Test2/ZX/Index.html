@@ -240,7 +240,10 @@
                     data: new FormData($('#fm')[0]),
                     success: function (data) {
                         data = eval('(' + data + ')');      //将一个json字符串解析成js对象
-                        $.messager.show("操作提示", data.Message, 'info'); //显示后台信息
+                        $.messager.show({ 
+                            title: '操作提醒',
+                            msg: data.Message
+                        }); //显示后台信息
                         if (data.Success) {
                             $('#dlg').dialog('close'); 	    //关闭弹出框
                         }
@@ -260,7 +263,10 @@
                     },
                     success: function (res) {
                         data = eval('(' + res + ')');      //将一个json字符串解析成js对象
-                        $.messager.alert("操作提示", data.Message, 'info'); //提示后台错误信息
+                        $.messager.show({
+                            title: '操作提醒',
+                            msg: data.Message
+                        }); //提示后台错误信息
                         if (data.Success) {
                             $('#dlg').dialog('close'); 	    //关闭弹出框
                         }
@@ -276,7 +282,10 @@
                 },
                 success: function (data) {
                     data = eval('(' + data + ')');      //将一个json字符串解析成js对象
-                    $.messager.show("操作提示", data.Message, 'info'); //提示后台信息
+                    $.messager.show({
+                        title: '操作提醒',
+                        msg: data.Message
+                    }); //提示后台信息
                     if (data.Success) {
                         $('#dlg').dialog('close'); 	    //关闭弹出框
                     }

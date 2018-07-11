@@ -209,6 +209,14 @@
                     datagrid.datagrid('unselectAll');
                     datagrid.datagrid('selectRow', index); //选中该行
                 },
+                onBeginEdit: function (index, row) {
+                    var target1 = datagrid.datagrid('getEditor', { index: index, field: 'Role' }).target;
+                    target1.combobox({ editable: false });  //不可以输入，只可以选择
+                    var target2 = datagrid.datagrid('getEditor', { index: index, field: 'JT' }).target;
+                    target2.combobox({ editable: false });  //不可以输入，只可以选择
+                    var target3 = datagrid.datagrid('getEditor', { index: index, field: 'GC' }).target;
+                    target3.combobox({ editable: false });  //不可以输入，只可以选择
+                },
                 onAfterEdit: function (rowIndex, rowData, changes) {
                     //endEdit该方法触发此事件
                     var inserted = datagrid.datagrid('getChanges', 'inserted');

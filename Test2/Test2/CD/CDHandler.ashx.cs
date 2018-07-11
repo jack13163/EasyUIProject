@@ -224,7 +224,6 @@ namespace Web.CD
         public bool Update(CDInfo cd, string old)
         {
             string sql = "Update `web`.`测点表` SET " +
-                "`机组编号` = '" + cd.JZId + "'," +
                 "`测点名称` = '" + cd.Name + "'," +
                 "`测点描述` = '" + cd.Introduce + "' " + " WHERE `测点编号` = " + cd.Id + ";";
             if (!old.Equals(cd.Name))
